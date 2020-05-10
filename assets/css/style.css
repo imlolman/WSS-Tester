@@ -111,6 +111,10 @@
   .switch .slider.round:before {
     border-radius: 50%;
   }
+
+  .navigation .img {
+    color: var(--color-primary);
+  }
   
   .status{
     font-weight: 400;

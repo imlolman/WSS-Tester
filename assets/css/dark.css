@@ -23,7 +23,7 @@
   }
   
   .navigation .img {
-    fill: var(--color-primary-darker);
+    color: var(--color-primary-darker);
   }
 
   fieldset,input,select,textarea{
